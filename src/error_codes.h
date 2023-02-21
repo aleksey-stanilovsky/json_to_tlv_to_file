@@ -1,0 +1,13 @@
+//
+// Created by alst on 21.02.23.
+//
+
+#ifndef NXLOG_TEST_CPP_ERROR_CODES_H
+#define NXLOG_TEST_CPP_ERROR_CODES_H
+
+#define ERROR_READ 1
+#define ERROR_PARSE 2
+#define ERROR_TLV_UNH_DATA_TYPE 3
+#define ERROR_PARSE_TLV 4
+
+#endif //NXLOG_TEST_CPP_ERROR_CODES_H
